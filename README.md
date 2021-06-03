@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![](https://komarev.com/ghpvc/?username=MonitSharma&color=blueviolet&style=plastic)
+
 <!--
 **MonitSharma/MonitSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
