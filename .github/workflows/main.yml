@@ -58,4 +58,13 @@ jobs:
           plugin_skyline_year: 2022
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 1
+          
+          
+
+  
+
           
