@@ -21,7 +21,7 @@ jobs:
           commits_authoring:  monitsharma437@gmail.com
           plugin_achievements: yes
           plugin_calendar: yes
-          plugin_calendar_limit: 3
+          plugin_calendar_limit: 2
           #plugin_followup: yes
           plugin_habits: yes
           plugin_habits_facts: yes
@@ -31,14 +31,8 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_sections: recently-used
-          plugin_languages_recent_load: 400
-          plugin_languages_recent_days: 34
           plugin_languages_colors: rainbow
           plugin_languages_limit: 8
-          plugin_lines: yes
-          plugin_lines_sections: repositories, history
-          plugin_lines_repositories_limit: 2
-          plugin_lines_history_limit: 1
           plugin_stargazers: yes
           plugin_stargazers_charts_type: chartist
           #plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, JavaScript, SCSS, Ruby, Jupyter Notebook, Shell, Tcl
@@ -56,12 +50,12 @@ jobs:
           plugin_contributors_contributions: yes
           plugin_skyline: yes
           plugin_skyline_year: 2022
-          plugin_skyline_frames: 6
-          plugin_skyline_quality: 1
+          plugin_skyline_frames: 20
+          plugin_skyline_quality: 2
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
-          plugin_anilist_limit: 1
+          plugin_anilist_limit: 4
           
           
 
