@@ -52,12 +52,8 @@ jobs:
           plugin_skyline_year: 2022
           plugin_skyline_frames: 20
           plugin_skyline_quality: 2
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching
-          plugin_anilist_limit: 4
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+      
+      
           
           
 
