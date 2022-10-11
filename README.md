@@ -14,6 +14,12 @@
 I am Monit Sharma, Master in Science from [Indian Institute of Science Education and Research, Mohali](https://www.iisermohali.ac.in/), with a major in Physics and a minor in Data Sciences. I also worked as a Quantum Computing researcher at [Tata Consultancy Services](https://www.tcs.com/), where I solved real world industry scale problems using quantum hardware and algorithms.
 
 Check my [website](https://monitsharma.github.io/index.html) for Free Lecture & Resources, check [this](https://monitsharma.github.io/page1/) for my portfolio, work experience and academics projects with some blogs and check [this](https://monitsharma.github.io/page3/) for my certificates, CS work and python projects.
+
+
+
+[![@Monit's Holopin board](https://holopin.io/api/user/board?user=monitsharma)](https://holopin.io/@monitsharma)
+
+
 - 📃 Current Work
     
      
