@@ -26,7 +26,7 @@ Check my [website](https://monitsharma.github.io/index.html) for Free Lecture & 
      - Working on [Quantum Integer Programming](https://github.com/MonitSharma/Quantum_Integer_Programming),  primarily designed for graduate students (and advanced undergraduates) interested in integer programming (with non-linear objective functions) and the potential of near-term quantum computing for solving combinatorial optimization problems.
      
      
-     - Designing user friendly courses in Machine Learning, [Linear Algebra using Python](https://github.com/MonitSharma/Numerical-Linear-Algebra), Data Science and Data Visualization.
+     - Designing user friendly courses in Machine Learning, [Linear Algebra using Python](https://github.com/MonitSharma/Numerical-Linear-Algebra), [Machine Learning](https://github.com/MonitSharma/Learn-Machine-Learning-with-Me), [Data Science](https://github.com/MonitSharma/Learn-Data-Science-with-Me) and [ML Visualization](https://github.com/MonitSharma/Machine-Learning-Visualizations).
      
      ![alt text](https://github.com/MonitSharma/Machine-Learning-Visualizations/blob/main/gifs/GradientDescent3D.gif)
      
