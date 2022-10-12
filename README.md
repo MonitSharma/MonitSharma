@@ -30,9 +30,12 @@ Check my [website](https://monitsharma.github.io/index.html) for Free Lecture & 
      
      ![alt text](https://github.com/MonitSharma/Machine-Learning-Visualizations/blob/main/gifs/GradientDescent3D.gif)
      
-     - Regularly Solving Leetcode problems as a part of #100day code challenge. All the solutions in different language are available [here](https://github.com/MonitSharma/LeetCode-Solutions). More than 200 problems are solved already.
+     - Regularly Solving [Leetcode](https://leetcode.com/monitsharma/) problems as a part of #100day code challenge. All the solutions in different language are available [here](https://github.com/MonitSharma/LeetCode-Solutions). More than 280 problems are solved already.
      
      - Going through Nielsen and Chuang's book on Quantum Computation and Quantum Information and providing [solution](https://github.com/Indi-Quantum-Community/Nielsen-Chuang-Solutions) to the problems mentioned in the book.
+
+
+     - Working on some open source projects, and contributing to many open source quantum computing packages like [Pennylane AI](https://github.com/MonitSharma?tab=overview&org=PennyLaneAI) and [Qiskit](https://github.com/MonitSharma?tab=overview&org=qiskit-community&from=2021-10-10&to=2022-10-12)
      
 
      
@@ -45,14 +48,14 @@ Check my [website](https://monitsharma.github.io/index.html) for Free Lecture & 
     - I plan on working on [Natural Language Processing](https://github.com/MonitSharma/Natural-Language-Processing), both the classical and quantum perspective of this. Exploring a new field here.
 
    
-     - Do some basic introduction to quantum computing with various projects on all present quantum hardwares and libraries.
+     - Do some basic [introduction to quantum computing](https://github.com/MonitSharma/Introduction-to-Quantum-Computing) and some [Quantum Machine Learning](https://github.com/MonitSharma/Learn-Quantum-Machine-Learning) course with various [projects](https://github.com/MonitSharma/Quantum-Machine-Learning-Projects) on all present quantum hardwares and libraries.
        
      
 
      
      - Making quantum computing code exercises and walkthrough in [Hindi](https://github.com/MonitSharma/qiskit_hindi_tutorials), in order to make quantum computation accessible to everyone.
                
-     - Working on some open source projects
+     
      ![alt text](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/gifs/u2_animated_qubit.gif)
 
 
