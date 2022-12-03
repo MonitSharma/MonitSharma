@@ -38,7 +38,7 @@ Check my [website](https://monitsharma.github.io/index.html) for Free Lecture & 
      - Working on some open source projects, and contributing to many open source quantum computing packages like [Pennylane AI](https://github.com/MonitSharma?tab=overview&org=PennyLaneAI) and [Qiskit](https://github.com/MonitSharma?tab=overview&org=qiskit-community&from=2021-10-10&to=2022-10-12)
      
 
-     
+
 
      
 
@@ -152,12 +152,12 @@ Check my [website](https://monitsharma.github.io/index.html) for Free Lecture & 
 
 
 
+<a href="https://quine.sh/profile/MonitSharma"><img src="https://stats.quine.sh/MonitSharma/github" alt="MonitSharma's GitHub stats" width="840px"></a>
 
 
+----
 
-
-
-
+<a href="https://quine.sh/profile/MonitSharma"><img src="https://stats.quine.sh/MonitSharma/verified-languages?simple=true" alt="MonitSharma's language experiences" width="840px"></a>
 
 <h3>Summary</h3>
 
