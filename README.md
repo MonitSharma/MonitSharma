@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi, I'm Monit Sharma<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
-![Linkedin Follow](https://img.shields.io/badge/LinkedIn-1001-blue?style=social&logo=linkedin)
+![Linkedin Follow](https://img.shields.io/badge/LinkedIn-1.1k-blue?style=social&logo=linkedin)
 ![Profile Visits](https://komarev.com/ghpvc/?username=MonitSharma)
 ![GitHub followers](https://img.shields.io/github/followers/MonitSharma?style=social)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{MonitSharma}1212%2Fhit-counter)
@@ -13,7 +13,6 @@
 
 I am Monit Sharma, Master in Science from [Indian Institute of Science Education and Research, Mohali](https://www.iisermohali.ac.in/), with a major in Physics and a minor in Data Sciences. I also worked as a Quantum Computing researcher at [Tata Consultancy Services](https://www.tcs.com/), where I solved real world industry scale problems using quantum hardware and algorithms.
 
-Check my [website](https://monitsharma.github.io/index.html) for Free Lecture & Resources, check [this](https://monitsharma.github.io/page1/) for my portfolio, work experience and academics projects with some blogs and check [this](https://monitsharma.github.io/page3/) for my certificates, CS work and python projects.
 
 
 
@@ -26,7 +25,7 @@ Check my [website](https://monitsharma.github.io/index.html) for Free Lecture & 
      - Working on [Quantum Integer Programming](https://github.com/MonitSharma/Quantum_Integer_Programming),  primarily designed for graduate students (and advanced undergraduates) interested in integer programming (with non-linear objective functions) and the potential of near-term quantum computing for solving combinatorial optimization problems.
      
      
-     - Designing user friendly courses in [Linear Algebra using Python](https://github.com/MonitSharma/Numerical-Linear-Algebra), [Machine Learning](https://github.com/MonitSharma/Learn-Machine-Learning-with-Me), [Data Science](https://github.com/MonitSharma/Learn-Data-Science-with-Me) and [ML Visualization](https://github.com/MonitSharma/Machine-Learning-Visualizations).
+     - Designing user friendly courses in [Linear Algebra using Python](https://github.com/MonitSharma/Numerical-Linear-Algebra), [Machine Learning](https://github.com/MonitSharma/Learn-Machine-Learning-with-Me) and [ML Visualization](https://github.com/MonitSharma/Machine-Learning-Visualizations).
      
      ![alt text](https://github.com/MonitSharma/Machine-Learning-Visualizations/blob/main/gifs/GradientDescent3D.gif)
      
