@@ -19,10 +19,10 @@ I am Monit Sharma, Master in Science from [Indian Institute of Science Education
 [![@Monit's Holopin board](https://holopin.io/api/user/board?user=monitsharma)](https://holopin.io/@monitsharma)
 
 
-- 📃 Current Work
+- 📃 Projects I'm working on:
     
      
-     - Working on [Quantum Integer Programming](https://github.com/MonitSharma/Quantum_Integer_Programming),  primarily designed for graduate students (and advanced undergraduates) interested in integer programming (with non-linear objective functions) and the potential of near-term quantum computing for solving combinatorial optimization problems.
+     - A 1/3 course on **Quantum Computing** , starting from some basic [introduction to quantum computing](https://github.com/MonitSharma/Introduction-to-Quantum-Computing) with some lecture notes, and code tutorials, to 2/3 **Quantum Error Correction** , which introduces the concept of error correction in quantum computing and lastly a 3/3 **Quantum Integer Programming** a course for the people working in industry, teaching them how to utilise the quantum computing techniques to the fullest. 
      
      
      - Designing user friendly courses in [Linear Algebra using Python](https://github.com/MonitSharma/Numerical-Linear-Algebra), [Machine Learning](https://github.com/MonitSharma/Learn-Machine-Learning-with-Me) and [ML Visualization](https://github.com/MonitSharma/Machine-Learning-Visualizations).
@@ -41,32 +41,9 @@ I am Monit Sharma, Master in Science from [Indian Institute of Science Education
 
      
 
-- 📃 Future Work Plans
-
-
-    - I plan on working on [Natural Language Processing](https://github.com/MonitSharma/Natural-Language-Processing), both the classical and quantum perspective of this. Exploring a new field here.
-
-   
-     - Do some basic [introduction to quantum computing](https://github.com/MonitSharma/Introduction-to-Quantum-Computing) and some [Quantum Machine Learning](https://github.com/MonitSharma/Learn-Quantum-Machine-Learning) course with various [projects](https://github.com/MonitSharma/Quantum-Machine-Learning-Projects) on all present quantum hardwares and libraries.
-       
-     
-
-     
-     - Making quantum computing code exercises and walkthrough in [Hindi](https://github.com/MonitSharma/qiskit_hindi_tutorials), in order to make quantum computation accessible to everyone.
-               
-     
-     ![alt text](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/gifs/u2_animated_qubit.gif)
 
 
 
-
-- 📃 Experience
-
-   - I made some [quantum games](https://github.com/MonitSharma/qiskit-projects/tree/main/Quantum_Game), a fun way to teach quantum computing and also demonstrate the power of quantum computing in simpler ways.
-  
-   
-    - Worked on several projects using quantum machine learning like : classifying astrophysics data and developed a [Q-CNN to classify the galaxy cluster images](https://github.com/MonitSharma/Quantum-Machine-Learning/tree/main/QML%20in%20Astrophysics), an hybrid quantum neural network to classify SuperSymmetry (SUSY) dataset available from [CERN](https://home.cern/), a fully quantum convolutional neural network to classify images to predict the Equation of State for Quantum ChromoDynamics.
-    
     
   <h2 align="center"><img src="https://github.com/MonitSharma/MonitSharma/blob/main/lhc.gif"></h2>
   
