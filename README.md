@@ -11,7 +11,7 @@
 
 <h2>About me</h2>
 
-I am Monit Sharma, Master in Science from [Indian Institute of Science Education and Research, Mohali](https://www.iisermohali.ac.in/), with a major in Physics and a minor in Data Sciences. I also worked as a Quantum Computing researcher at [Tata Consultancy Services](https://www.tcs.com/), where I solved real world industry scale problems using quantum hardware and algorithms.
+I am Monit Sharma, Master in Science from [Indian Institute of Science Education and Research, Mohali](https://www.iisermohali.ac.in/), with a major in Physics and a minor in Data Sciences. Currently working at [Singapore Management University](https://www.smu.edu.sg/). I also worked as a Quantum Computing researcher at [Tata Consultancy Services](https://www.tcs.com/), where I solved real world industry scale problems using quantum hardware and algorithms.
 
 
 
@@ -20,7 +20,10 @@ I am Monit Sharma, Master in Science from [Indian Institute of Science Education
 
 
 - 📃 Projects I'm working on:
-    
+
+   
+    - A course on [Computational Physics with Python and C++](https://medium.com/@_monitsharma/list/computational-physics-f8d4b52726ba), aimed at undergrads to learn more about the use of Python and C++ in computational physics,and how to make life easier. This will also include some basic physics simulations and will eventually lead up to physics simulations and some high end projects in the field of High Energy Physics.
+    -  Solving [LeetCode problems](https://medium.com/@_monitsharma/list/leetcode-solutions-4ce3cba639a7) in three languages Python, Java and C++, and occasionaly in Javascript, C and some other languages and write about each problem in a medium article. Till now I've solved around 400 problmes on [Leetcode](https://leetcode.com/monitsharma/). You can check the website [here](https://monitsharma.github.io/LeetCode-Solutions/).
      
      - A 1/3 course on **Quantum Computing** , starting from some basic [introduction to quantum computing](https://github.com/MonitSharma/Introduction-to-Quantum-Computing) with some lecture notes, and code tutorials, to 2/3 **Quantum Error Correction** , which introduces the concept of error correction in quantum computing and lastly a 3/3 **Quantum Integer Programming** a course for the people working in industry, teaching them how to utilise the quantum computing techniques to the fullest. 
      
@@ -29,7 +32,7 @@ I am Monit Sharma, Master in Science from [Indian Institute of Science Education
      
      ![alt text](https://github.com/MonitSharma/Machine-Learning-Visualizations/blob/main/gifs/GradientDescent3D.gif)
      
-     - Regularly Solving [Leetcode](https://leetcode.com/monitsharma/) problems as a part of #100day code challenge. All the solutions in different language are available [here](https://github.com/MonitSharma/LeetCode-Solutions). More than 280 problems are solved already.
+
      
      - Going through Nielsen and Chuang's book on Quantum Computation and Quantum Information and providing [solution](https://github.com/Indi-Quantum-Community/Nielsen-Chuang-Solutions) to the problems mentioned in the book.
 
