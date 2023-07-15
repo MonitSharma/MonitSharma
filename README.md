@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi, I'm Monit Sharma<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
-![Linkedin Follow](https://img.shields.io/badge/LinkedIn-1.5k-blue?style=social&logo=linkedin)
+![Linkedin Follow](https://img.shields.io/badge/LinkedIn-1.7k-blue?style=social&logo=linkedin)
 ![Profile Visits](https://komarev.com/ghpvc/?username=MonitSharma)
 ![GitHub followers](https://img.shields.io/github/followers/MonitSharma?style=social)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{MonitSharma}1212%2Fhit-counter)
