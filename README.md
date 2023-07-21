@@ -11,7 +11,7 @@
 
 <h2>About me</h2>
 
-I am Monit Sharma, Master in Science from [Indian Institute of Science Education and Research, Mohali](https://www.iisermohali.ac.in/), with a major in Physics and a minor in Data Sciences. Currently working at [Singapore Management University](https://www.smu.edu.sg/). I also worked as a Quantum Computing researcher at [Tata Consultancy Services](https://www.tcs.com/), where I solved real-world industry scale problems using quantum hardware and algorithms.
+I am Monit Sharma, working as a Quantum Computing Researcher at [Singapore Management University](https://www.smu.edu.sg/), I also worked as a Quantum Computing researcher at [Tata Consultancy Services](https://www.tcs.com/). I did my Masters in Science from [Indian Institute of Science Education and Research, Mohali](https://www.iisermohali.ac.in/), with a major in Physics and a minor in Data Sciences. 
 
 
 
