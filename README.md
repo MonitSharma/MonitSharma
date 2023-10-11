@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi, I'm Monit Sharma<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
- <a href="https://medium.com/@_monitsharma" target="_blank"><img alt="medium | Medium" height="23px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://medium.com/@_monitsharma" target="_blank"><img alt="medium | Medium" height="23px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/monitsharma/" target="_blank"><img alt="linkedin | LinkedIn" height="23px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://monitsharma.github.io/" target="_blank"><img alt="linkedin | LinkedIn" height="23px" src="https://img.shields.io/badge/Quantum Classroom-ED225D?style=for-the-badge&logo=Quantum Classroom&logoColor=FFFFFF" /></a>
 
