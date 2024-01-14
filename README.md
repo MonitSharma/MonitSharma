@@ -13,36 +13,6 @@
 <h2 align="center"><img src="https://github.com/MonitSharma/MonitSharma/blob/main/giphy.gif"></h2>
 
 
-<h2>About me</h2>
-
-I am Monit Sharma, working as a Quantum Computing Researcher at [Singapore Management University](https://www.smu.edu.sg/), I also worked as a Quantum Computing researcher at [Tata Consultancy Services](https://www.tcs.com/). I did my Masters in Science from [Indian Institute of Science Education and Research, Mohali](https://www.iisermohali.ac.in/), with a major in Physics and a minor in Data Sciences. 
-
-
-
-
-[![@Monit's Holopin board](https://holopin.io/api/user/board?user=monitsharma)](https://holopin.io/@monitsharma)
-
-
-- 📃 Projects I'm working on:
-
-   
-    - A course on [Computational Physics with Python and C++](https://medium.com/@_monitsharma/list/computational-physics-f8d4b52726ba), aimed at undergrads to learn more about the use of Python and C++ in computational physics, and how to make life easier. This will also include some basic physics simulations and eventually lead up to physics simulations and some high-end projects in the field of High Energy Physics.
-    -  Solving [LeetCode problems](https://medium.com/@_monitsharma/list/leetcode-solutions-4ce3cba639a7) in three languages Python, Java and C++, and occasionally in Javascript, C and some other languages and write about each problem in a medium article. Till now I've solved around 440 problems on [Leetcode](https://leetcode.com/monitsharma/). You can check the website [here](https://monitsharma.github.io/LeetCode-Solutions/).
-     
-     - A 1/3 course on **Quantum Computing**, starting from some basic [introduction to quantum computing](https://github.com/MonitSharma/Introduction-to-Quantum-Computing) with some lecture notes, and code tutorials, to 2/3 **Quantum Error Correction**, which introduces the concept of error correction in quantum computing and lastly a 3/3 **Quantum Integer Programming** a course for the people working in industry, teaching them how to utilise the quantum computing techniques to the fullest. 
-     
-     
-     - Designing user-friendly courses in [Linear Algebra using Python](https://github.com/MonitSharma/Numerical-Linear-Algebra), [Machine Learning](https://github.com/MonitSharma/Learn-Machine-Learning-with-Me) and [ML Visualization](https://github.com/MonitSharma/Machine-Learning-Visualizations).
-     
-     ![alt text](https://github.com/MonitSharma/Machine-Learning-Visualizations/blob/main/gifs/GradientDescent3D.gif)
-     
-
-     
-     - Going through Nielsen and Chuang's book on Quantum Computation and Quantum Information and providing [solution](https://github.com/Indi-Quantum-Community/Nielsen-Chuang-Solutions) to the problems mentioned in the book.
-
-
-     - Working on some open source projects, and contributing to many open source quantum computing packages like [Pennylane AI](https://github.com/MonitSharma?tab=overview&org=PennyLaneAI) and [Qiskit](https://github.com/MonitSharma?tab=overview&org=qiskit-community&from=2021-10-10&to=2022-10-12)
-     
 
 
 
@@ -51,34 +21,8 @@ I am Monit Sharma, working as a Quantum Computing Researcher at [Singapore Manag
 
 
 
-    
-  <h2 align="center"><img src="https://github.com/MonitSharma/MonitSharma/blob/main/lhc.gif"></h2>
   
   
-    - For my coursework at IISER, I made a [mathematical animation video](https://www.youtube.com/watch?v=F7OXvL39DV8&t=7s) for my 'Solid State Physics' course, using Python and manim, made many simulations for Computational Physics II course, for [wave equations](https://www.youtube.com/watch?v=bMVtoVP4mAA&t=14s) and [lennard james potential.](https://www.youtube.com/watch?v=UqC1jSn0vrY), made a Youtube video for my seminar delivery course, on [Many Fermionic Study || Monte Carlo method](https://www.youtube.com/watch?v=G8QHzxhVB04), did a course on Complex systems and chaos, [modelling complex systems](https://github.com/MonitSharma/Modelling-Complex-Systems) from scratch and wrote a paper about each, made a News Recommender Website, which only shows you the news that you are interested in and learns from user's activity. [Click here](https://github.com/MonitSharma/News-Recommender-Website)
-    
-    
-     <h2 align="center"><img src="https://github.com/MonitSharma/MonitSharma/blob/main/manim1.gif"></h2>
-    
-    
-    
-    
-    - For providing free education , notes and resources , I wrote some introductory material and papers for beginners to understand and implement Quantum Computing and Quantum Machine Learning, I actively work on [leetcode problems](https://leetcode.com/monitsharma/) and provide [solutions](https://github.com/MonitSharma/LeetCode-Solutions/blob/main/README.md) to them in different programming languages, I solved the [Advent of Code 2021](https://github.com/MonitSharma/Advent-of-Code) challenge and made it to the leaderboard, made some [Javascript simulations](https://github.com/MonitSharma/Javascript-Simulations) inspired from the coding train, I did some real world [Data Science Projects](https://github.com/MonitSharma/Data-Science-Projects), which included cleaning the data and drawing inference from them, I also worked with CERN and applied [Deep Learning on various High Energy Physics data](https://github.com/MonitSharma/Deep-Learning-in-High-Energy-Physics), made a mathematical visualization for the famous [monty hall problem](https://monitsharma.github.io/Monty-Hall/), made several [Python Projects](https://github.com/MonitSharma/Python_Projects) ranging from bitcoin mining, audio book, virtual chat bot, vehcile counter,drowsiness detector and eye blink detection, and made a website to visualize the ongoing COVID cases and record data from various states. [Click here](https://github.com/MonitSharma/Corona_Website)  you can check the lectures/notes and code for all.
-
-
-
-<h2 align="center"><img src="https://github.com/MonitSharma/MonitSharma/blob/main/montyhall.gif"></h2>
-    
-    
-    
-- Attended & Participated in, [Eigensolvers](https://github.com/The-Eigensolvers/TEQS) hackathon, and [won 2 certificates](https://github.com/MonitSharma/EigenSolvers), [MIT Introduction to Deep Learning course](https://github.com/MonitSharma/MIT-Introduction-to-Deep-Learning) and made notes and coding assignments,  Qiskit Summer School of 2021 and 2020, based on [Quantum Machine learning](https://github.com/MonitSharma/Qiskit-Summer-School-2021) and scored a 100/100, [IBM quantum challenge of 2021](https://github.com/MonitSharma/IBM-Quantum-Computing-Challenge-2021) and [IBM quantum challenge Africa 2021.](https://github.com/MonitSharma/IBM-Quantum-Challenge---Africa-2021),  [Coronasafe fellowship program](https://github.com/MonitSharma/CoronaSafe-Engineering-Fellowship) and was selected for the next round of it.
-   
-    
-<h2 align="center"><img src="https://github.com/MonitSharma/MonitSharma/blob/main/cern.gif"></h2>
-
-- I also solve [Leet Code problems regularly](https://medium.com/@_monitsharma/list/leetcode-solutions-4ce3cba639a7):
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/MonitSharma?ext=activity)
 
 
 
@@ -178,15 +122,6 @@ src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leet
     
 
      
-📺 Latest YouTube Videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Mathematics of Solid State Physics](https://www.youtube.com/watch?v=F7OXvL39DV8&t=4s)
-- [Monte-Carlo Method, Many Fermionic Study](https://www.youtube.com/watch?v=G8QHzxhVB04)
-- [Wave Simulation using Finite Difference Method](https://www.youtube.com/watch?v=bMVtoVP4mAA)
-- [Leonnard Jones Simulation](https://www.youtube.com/watch?v=UqC1jSn0vrY)
-
-<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
      
