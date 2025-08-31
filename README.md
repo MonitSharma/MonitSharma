@@ -18,7 +18,7 @@
 
 ### About Me
 
-I'm a Research Engineer passionate about quantum computing, optimization (classical & quantum), and high-performance computing. I explore quantum algorithms, hybrid optimization techniques, and their applications in complex problems like supply chain logistics.
+I'm a Research Engineer passionate about quantum computing, optimization (classical & quantum), and high-performance computing. I explore quantum algorithms, hybrid optimization techniques, and their applications in complex problems like finance and supply chain logistics.
 
 *   🔭 **Research Focus:** Quantum Optimization, Quantum-Classical Hybrid Algorithms, Combinatorial Optimization, Supply Chain Applications.
 *   🌐 **Personal Site:** [monitsharma.github.io/portfolio](https://monitsharma.github.io/portfolio/)
