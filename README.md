@@ -1,7 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/masthead-dark.svg">
-  <img src="assets/masthead.svg" width="100%" alt="Monit Sharma — Quantum Computing · AI for Science · Optimization">
-</picture>
+# Monit Sharma
+
+**Research Engineer · SMU-Quantum**\
+*Quantum Computing · AI for Science · Optimization · Scientific Computing*
 
 <p>
   <b><a href="https://monitsharma.github.io/portfolio/">Portfolio ↗</a></b> &nbsp;·&nbsp;
@@ -95,9 +95,6 @@ Notes, lectures and solutions for IBM Qiskit summer schools and quantum challeng
 - **[Quantum Classroom ↗](https://monitsharma.github.io/)** — structured tutorials and learning material for quantum computing.
 - **[Portfolio ↗](https://monitsharma.github.io/portfolio/)** — selected work, writing and research background.
 
-<br>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/colophon-dark.svg">
-  <img src="assets/colophon.svg" width="100%" alt="Monit Sharma — Quantum · AI · HPC — monitsharma.github.io">
-</picture>
+<sub>Monit Sharma · Quantum · AI · HPC — [monitsharma.github.io](https://monitsharma.github.io/)</sub>
